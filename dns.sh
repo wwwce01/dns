@@ -24,7 +24,7 @@ curl -X PUT "https://api.cloudflare.com/client/v4/zones/$domainID/dns_records/$d
 
 
 ********************************************************下面是调试好的命令***********************
-gmail=wwwce3620@gmail.com
+gmail=
 key=d1de97f38eff107b86ae3616f13651fbe5484
 domainID=a81fe9795838a65e8982aa73978b13a7
 dnsID=3e8e36f7ffb823a97fd99b2d60c2f79f
