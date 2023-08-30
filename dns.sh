@@ -25,7 +25,7 @@ curl -X PUT "https://api.cloudflare.com/client/v4/zones/$domainID/dns_records/$d
 
 ********************************************************下面是调试好的命令***********************
 gmail=
-key=d1de97f38eff107b86ae3616f13651fbe5484
+key=d1de97f38eff107b86ae3616f13651fbe5484a
 domainID=a81fe9795838a65e8982aa73978b13a7
 dnsID=3e8e36f7ffb823a97fd99b2d60c2f79f
 resultIP=$(curl -H "Referer: https://stock.hostmonit.com" -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"  -H "Content-Type: application/json" --data '{"key":"iDetkOys"}' -X POST "https://api.hostmonit.com/get_optimization_ip")
