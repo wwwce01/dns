@@ -6,5 +6,12 @@
 	下面是json解析  用的是Python
 	https://blog.csdn.net/sinat_33718563/article/details/123210906
 */
+
+教程 https://ednovas.xyz/2022/02/09/cfddns/#%E9%85%8D%E7%BD%AE%E4%BF%A1%E6%81%AF
 下载脚本
 curl https://github.com/wwwce01/dns/dns.sh > /root/dns.sh && chmod +x /root/dns.sh
+
+执行脚本 
+
+./dns.sh
+
