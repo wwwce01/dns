@@ -1,12 +1,4 @@
-/*  
-	如何获取参数  请看教程
-	https://blog.csdn.net/weixin_41939688/article/details/105752126
-	https://github.com/XIU2/CloudflareSpeedTest/issues/40
-	下面是json解析  用的是Python
-	https://blog.csdn.net/sinat_33718563/article/details/123210906
- 	定时任务设置教程 https://ednovas.xyz/2022/02/09/cfddns/#%E9%85%8D%E7%BD%AE%E4%BF%A1%E6%81%AF
-  	"'"$dnsIP"'" 这个地方  引号不对导致提交数据一直不对  提示教程 https://blog.csdn.net/zh17673640696/article/details/125410881
-*/
+
 gmail=wwwce3620@gmail.com
 key=d1de97f38eff107b86ae3616f13651fbe5484
 domainID=a81fe9795838a65e8982aa73978b13a7
