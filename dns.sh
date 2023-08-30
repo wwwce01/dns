@@ -4,6 +4,7 @@
 	https://github.com/XIU2/CloudflareSpeedTest/issues/40
 	下面是json解析  用的是Python
 	https://blog.csdn.net/sinat_33718563/article/details/123210906
+ 	定时任务设置教程 https://ednovas.xyz/2022/02/09/cfddns/#%E9%85%8D%E7%BD%AE%E4%BF%A1%E6%81%AF
 */
 gmail=wwwce3620@gmail.com
 key=d1de97f38eff107b86ae3616f13651fbe5484
