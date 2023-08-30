@@ -4,6 +4,7 @@
 	https://github.com/XIU2/CloudflareSpeedTest/issues/40
 	下面是json解析  用的是Python
 	https://blog.csdn.net/sinat_33718563/article/details/123210906
+	我的worker ID:463b5734-65c4-4c6a-8b56-251ebd364912
 */
 gmail=wwwce3620@gmail.com
 key=d1de97f38eff107b86ae3616f13651fbe5484
